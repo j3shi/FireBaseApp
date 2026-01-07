@@ -1,1 +1,1 @@
-#Shoppinglist app that saves items to Firebase
+# Shoppinglist app that saves items to Firebase
